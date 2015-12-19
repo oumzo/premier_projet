@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-  resources :microposts
+  resources :
   resources :users
   resources :users
   root 'welcome#index'
